@@ -1,0 +1,14 @@
+"analysis","feature","method","phi","bootstrap_q","split_index","left_segment_end","right_segment_start"
+"main","diagonal_second_order","phi=1/2",0.5,0.05,236,1979-08-01,1979-09-01
+"main","diagonal_second_order","phi=1/2",0.5,0.05,272,1982-08-01,1982-09-01
+"main","diagonal_second_order","phi=1/2",0.5,0.05,303,1985-03-01,1985-04-01
+"main","diagonal_second_order","phi=1/2",0.5,0.05,721,2020-01-01,2020-02-01
+"main","diagonal_second_order","phi=1/2",0.5,0.05,739,2021-07-01,2021-08-01
+"main","diagonal_second_order","combined",-1,0.05,236,1979-08-01,1979-09-01
+"main","diagonal_second_order","combined",-1,0.05,272,1982-08-01,1982-09-01
+"main","diagonal_second_order","combined",-1,0.05,306,1985-06-01,1985-07-01
+"strict_threshold_sensitivity","diagonal_second_order","phi=1/2",0.5,0.01,236,1979-08-01,1979-09-01
+"strict_threshold_sensitivity","diagonal_second_order","phi=1/2",0.5,0.01,272,1982-08-01,1982-09-01
+"strict_threshold_sensitivity","diagonal_second_order","phi=1/2",0.5,0.01,303,1985-03-01,1985-04-01
+"strict_threshold_sensitivity","diagonal_second_order","phi=1/2",0.5,0.01,721,2020-01-01,2020-02-01
+"strict_threshold_sensitivity","diagonal_second_order","phi=1/2",0.5,0.01,739,2021-07-01,2021-08-01

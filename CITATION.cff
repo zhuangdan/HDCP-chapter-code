@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite the associated book chapter and this software when using these materials."
+title: "High-Dimensional Change-Point Detection: Reproducibility Code"
+type: software
+authors:
+  - family-names: Zhuang
+    given-names: Dan
+    email: zhgdan@fjnu.edu.cn
+    affiliation: "School of Mathematics and Statistics, Fujian Normal University, Fuzhou 350117, China"
+  - family-names: Feng
+    given-names: Long
+    email: flnankai@nankai.edu.cn
+    affiliation: "NITFID, School of Statistics and Data Science, LEBPS, LPMC, AAIS and KLMDASR, Nankai University, Tianjin, China"
+version: 1.0.0
+date-released: 2026-09-30
+license: MIT

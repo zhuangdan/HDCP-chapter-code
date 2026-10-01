@@ -1,0 +1,25 @@
+"method","level","locus","nearest_lzzl_distance"
+"Double CUSUM combined","q=0.05",73,0
+"Double CUSUM combined","q=0.05",135,1
+"Double CUSUM combined","q=0.05",263,0
+"Double CUSUM combined","q=0.05",342,16
+"Double CUSUM combined","q=0.05",523,2
+"Double CUSUM combined","q=0.05",581,4
+"Double CUSUM combined","q=0.05",656,2
+"Double CUSUM combined","q=0.05",727,1
+"Double CUSUM combined","q=0.05",1050,1
+"Double CUSUM combined","q=0.05",1141,0
+"Double CUSUM combined","q=0.05",1182,1
+"Double CUSUM combined","q=0.05",1225,0
+"Double CUSUM combined","q=0.05",1367,19
+"Double CUSUM combined","q=0.05",1724,0
+"Double CUSUM combined","q=0.05",1906,0
+"Double CUSUM combined","q=0.05",1965,0
+"Double CUSUM combined","q=0.05",2041,0
+"Double CUSUM combined","q=0.05",2082,2
+"Double CUSUM combined","q=0.05",2143,0
+"Double CUSUM combined","q=0.01",1724,0
+"Double CUSUM combined","q=0.01",1906,0
+"Double CUSUM combined","q=0.01",1965,0
+"Double CUSUM combined","q=0.01",2041,0
+"Double CUSUM combined","q=0.01",2143,0

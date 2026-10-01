@@ -1,0 +1,8 @@
+"analysis","feature","method","phi","bootstrap_q","bootstrap_threshold","detected_changepoints"
+"main","mean","phi=0",0,0.05,79.9656242617882,0
+"main","mean","phi=1/2",0.5,0.05,84.3699710339881,0
+"main","mean","combined",-1,0.05,466.263537860171,0
+"main","diagonal_second_order","phi=0",0,0.05,9.74623781312269,0
+"main","diagonal_second_order","phi=1/2",0.5,0.05,21.0602066995473,5
+"main","diagonal_second_order","combined",-1,0.05,57.5246331239014,3
+"strict_threshold_sensitivity","diagonal_second_order","phi=1/2",0.5,0.01,24.2102568165913,5

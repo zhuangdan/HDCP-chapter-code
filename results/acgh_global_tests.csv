@@ -1,0 +1,8 @@
+"procedure","calibration","p_value","p_value_display","seconds"
+"Max(0)","asymptotic",0,"<2.2e-16",0.0399999999999998
+"Sum","asymptotic",0,"<2.2e-16",0.0399999999999998
+"DMS(0)","asymptotic",0,"<2.2e-16",0.0399999999999998
+"Max(1/2)","asymptotic",0,"<2.2e-16",0.03
+"DMS(1/2)","asymptotic",0,"<2.2e-16",0.03
+"Yu--Chen Max(1/2)","multiplier bootstrap, B=500",0,"<0.0020",1.64
+"Liu--Zhou--Zhang--Liu adaptive","multiplier bootstrap, B=500",0.00399201596806387,"0.0040",6.8

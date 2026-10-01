@@ -1,0 +1,4 @@
+method,repetitions,rejections,rejection_rate,mcse_conditional_on_reference
+Max,2000,100,0.05,0.004873397172404482
+Quadratic,2000,99,0.0495,0.004850244839180801
+Adaptive-Bonferroni,2000,102,0.051,0.004919298730510275

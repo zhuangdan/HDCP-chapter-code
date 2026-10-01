@@ -1,0 +1,32 @@
+{
+  "n": 200,
+  "p": 200,
+  "trim": 20,
+  "alpha": 0.05,
+  "null_reference_draws": 4999,
+  "independent_null_repetitions": 2000,
+  "alternative_repetitions_per_cell": 1000,
+  "seed": 20260923,
+  "deltas": [
+    0.6,
+    1.0,
+    1.4
+  ],
+  "sparsities": [
+    1,
+    5,
+    10,
+    20,
+    50,
+    100,
+    200
+  ],
+  "calibration": "Known N(0,I_p) null, independent Monte Carlo rank p-values; adaptive Bonferroni",
+  "reference_reused": true,
+  "uncertainty_note": "Displayed MCSE conditions on the simulated null reference; it excludes reference Monte Carlo error.",
+  "python": "3.12.3",
+  "numpy": "1.26.4",
+  "pandas": "2.2.2",
+  "matplotlib": "3.8.4",
+  "wall_seconds_this_invocation": 2.3219097000546753
+}
